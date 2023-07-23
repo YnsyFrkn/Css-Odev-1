@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+ 
+}
+
+h1{
+    color: red;
+    
+}
+h2{
+    color:purple;
+}
+h3{
+    color: #FFC107;
+}
+.ortala{
+    text-align: center;
+}
+.nav-links{
+   text-align: center;
+   display: flex;
+   justify-content:center;
+}
+.nav-links li{
+    list-style-type: none;
+   margin-right: 25px;
+}
+.res{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.mAletleri{
+    text-align: center;
+       list-style-position:inside;
+}
